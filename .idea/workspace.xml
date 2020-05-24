@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2af6de33-eaff-4393-a8d9-600c03ec8b7b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/Program Files/apache-maven-3.5.4-bin/apache-maven-3.5.4" />
+        <option name="userSettingsFile" value="D:\Program Files\apache-maven-3.5.4-bin\apache-maven-3.5.4\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="jdkForImporter" value="#JAVA_HOME" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cCTOw2wCmGQD2zDaZy9J9JdwAU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.li" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.TestFilm.searchHighlight">
+    <configuration name="TestFilm.searchAll" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="elasticSearchStudy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.li.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.li" />
+      <option name="MAIN_CLASS_NAME" value="com.li.TestFilm" />
+      <option name="METHOD_NAME" value="searchAll" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestFilm.searchByCondition" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="elasticSearchStudy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.li.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.li" />
+      <option name="MAIN_CLASS_NAME" value="com.li.TestFilm" />
+      <option name="METHOD_NAME" value="searchByCondition" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestFilm.searchHighlight" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="elasticSearchStudy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.li.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.li" />
+      <option name="MAIN_CLASS_NAME" value="com.li.TestFilm" />
+      <option name="METHOD_NAME" value="searchHighlight" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestFilm.searchOrderByDate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="elasticSearchStudy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.li.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.li" />
+      <option name="MAIN_CLASS_NAME" value="com.li.TestFilm" />
+      <option name="METHOD_NAME" value="searchOrderByDate" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestFilm.searchPaging" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="elasticSearchStudy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.li.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.li" />
+      <option name="MAIN_CLASS_NAME" value="com.li.TestFilm" />
+      <option name="METHOD_NAME" value="searchPaging" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="elasticSearchStudy" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <module name="elasticSearchStudy" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestFilm.searchHighlight" />
+        <item itemvalue="JUnit.TestFilm.searchByCondition" />
+        <item itemvalue="JUnit.TestFilm.searchOrderByDate" />
+        <item itemvalue="JUnit.TestFilm.searchPaging" />
+        <item itemvalue="JUnit.TestFilm.searchAll" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2af6de33-eaff-4393-a8d9-600c03ec8b7b" name="Default Changelist" comment="" />
+      <created>1590031546260</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590031546260</updated>
+      <workItem from="1590031550362" duration="11539000" />
+      <workItem from="1590192228579" duration="6561000" />
+      <workItem from="1590321384952" duration="1739000" />
+      <workItem from="1590324189070" duration="39000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="D:/Program Files/Git/bin" />
+    </ignored-roots>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1207" y="495" key="FileChooserDialogImpl" timestamp="1590323333185">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="1207" y="495" key="FileChooserDialogImpl/0.0.2560.1440@0.0.2560.1440" timestamp="1590323333185" />
+    <state width="1156" height="300" key="GridCell.Tab.0.bottom" timestamp="1590221303890">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="1156" height="300" key="GridCell.Tab.0.bottom/0.0.2560.1440@0.0.2560.1440" timestamp="1590221303890" />
+    <state width="1156" height="300" key="GridCell.Tab.0.center" timestamp="1590221303889">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="1156" height="300" key="GridCell.Tab.0.center/0.0.2560.1440@0.0.2560.1440" timestamp="1590221303889" />
+    <state width="1156" height="300" key="GridCell.Tab.0.left" timestamp="1590221303889">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="1156" height="300" key="GridCell.Tab.0.left/0.0.2560.1440@0.0.2560.1440" timestamp="1590221303889" />
+    <state width="1156" height="300" key="GridCell.Tab.0.right" timestamp="1590221303889">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="1156" height="300" key="GridCell.Tab.0.right/0.0.2560.1440@0.0.2560.1440" timestamp="1590221303889" />
+    <state x="921" y="320" key="Maven.ArtifactSearchDialog" timestamp="1590049397397">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="921" y="320" key="Maven.ArtifactSearchDialog/0.0.2560.1440@0.0.2560.1440" timestamp="1590049397397" />
+    <state x="928" y="372" key="SettingsEditor" timestamp="1590323070437">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="928" y="372" key="SettingsEditor/0.0.2560.1440@0.0.2560.1440" timestamp="1590323070437" />
+    <state x="870" y="513" width="540" height="524" key="StructurePopup" timestamp="1590323650777">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="870" y="513" width="540" height="524" key="StructurePopup/0.0.2560.1440@0.0.2560.1440" timestamp="1590323650777" />
+    <state x="994" y="491" key="com.intellij.ide.util.TipDialog" timestamp="1590321405741">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="994" y="491" key="com.intellij.ide.util.TipDialog/0.0.2560.1440@0.0.2560.1440" timestamp="1590321405741" />
+    <state x="404" y="284" width="672" height="678" key="search.everywhere.popup" timestamp="1590034738443">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="404" y="284" width="672" height="678" key="search.everywhere.popup/0.0.2560.1440@0.0.2560.1440" timestamp="1590034738443" />
+  </component>
+</project>
